@@ -7,15 +7,3 @@ Graph Self-Supervised Learning for Optoelectronic Properties of Organic Semicond
 * `SchNet/` contains codes for pretraining and finetuning on non-equilibrium molecules with SchNet.
   * `SchNet/train_ssl.py` is the code for SSL pretraining and `SchNet/finetune.py`  is the code for finetuning.
 
-## Cite
-
-If you find this repo to be useful, please cite our paper. Thank you.
-
-```
-@article{zhang2021graph,
-  title={Graph Self-Supervised Learning for Optoelectronic Properties of Organic Semiconductors},
-  author={Zhang, Zaixi and Liu, Qi and Zhang, Shengyu and Hsieh, Chang-Yu and Shi, Liang and Lee, Chee-Kong},
-  journal={arXiv preprint arXiv:2112.01633},
-  year={2021}
-}
-```

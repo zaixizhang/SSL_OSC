@@ -6,4 +6,3 @@ Graph Self-Supervised Learning for Optoelectronic Properties of Organic Semicond
   * `GIN/pretrain_masking.py` is the code for SSL pretraining and `GIN/finetune.py`  is the code for finetuning.
 * `SchNet/` contains codes for pretraining and finetuning on non-equilibrium molecules with SchNet.
   * `SchNet/train_ssl.py` is the code for SSL pretraining and `SchNet/finetune.py`  is the code for finetuning.
-
